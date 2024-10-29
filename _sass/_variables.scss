@@ -55,6 +55,7 @@ $sidebar-link-max-width     : 250px;
    Colors
    ========================================================================== */
 
+/* default */
 $gray                       : #7a8288;
 $dark-gray                  : mix(#000, $gray, 40%);
 $darker-gray                : mix(#000, $gray, 60%);
@@ -102,6 +103,7 @@ $xing-color                 : #006567;
 
 
 /* links */
+/* defaults */
 $link-color                 : $info-color;
 $link-color-hover           : mix(#000, $link-color, 25%);
 $link-color-visited         : mix(#fff, $link-color, 25%);
