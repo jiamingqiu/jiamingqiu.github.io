@@ -34,7 +34,7 @@ Work Experience
   * Sub-skill 2.3
 * Skill 3 -->
 
-Publications
+Publications and Manuscripts
 ======
 
   <ul>{% for post in site.publications reversed %}
