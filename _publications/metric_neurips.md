@@ -8,7 +8,7 @@ date: 2023-12-01
 venue: 'Advances in Neural Information Processing Systems'
 slidesurl:
 paperurl: 
-citation: 'Qiu, Jiaming, and Xiongtao Dai. 2023. &quot;Estimating Riemannian Metric with Noise-Contaminated Intrinsic Distance.&quot; <i>Advances in Neural Information Processing Systems</i> 36 (December):73983–94.'
+citation: 'Qiu, Jiaming, and Xiongtao Dai. 2023. Estimating Riemannian Metric with Noise-Contaminated Intrinsic Distance. <i>Advances in Neural Information Processing Systems</i> 36 (December):73983–94.'
 ---
 
 <!-- **Qiu, Jiaming**, and Xiongtao Dai. 2023. "Estimating Riemannian Metric with Noise-Contaminated Intrinsic Distance." *Advances in Neural Information Processing Systems* 36 (December):73983–94.  -->

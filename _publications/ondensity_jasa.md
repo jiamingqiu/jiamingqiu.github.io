@@ -8,7 +8,7 @@ date: 2022-09-20
 venue: 'Journal of the American Statistical Association'
 slidesurl:
 paperurl: 
-citation: 'Qiu, Jiaming, Xiongtao Dai, and Zhengyuan Zhu. 2022. &quot;Nonparametric Estimation of Repeated Densities with Heterogeneous Sample Sizes.&quot; <i>Journal of the American Statistical Association</i> 119 (545): 176–88.'
+citation: 'Qiu, Jiaming, Xiongtao Dai, and Zhengyuan Zhu. 2022. Nonparametric Estimation of Repeated Densities with Heterogeneous Sample Sizes. <i>Journal of the American Statistical Association</i> 119 (545): 176–88.'
 ---
 
 <!-- **Qiu, Jiaming**, Xiongtao Dai, and Zhengyuan Zhu. 2024. "Nonparametric Estimation of Repeated Densities with Heterogeneous Sample Sizes." *Journal of the American Statistical Association* 119 (545): 176–88. -->

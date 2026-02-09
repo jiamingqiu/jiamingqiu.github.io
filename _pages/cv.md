@@ -67,4 +67,4 @@ Talks and Presentations
   
 Service
 ======
-* Reviewer for *Biometrics*, *Technometrics*, *Statistics and Computing*
+* Reviewer for NeurIPS, *Biometrics*, *Technometrics*, *Statistics and Computing*

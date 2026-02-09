@@ -8,6 +8,7 @@ date: 2024-12-14
 location: "Vancouver, British Columbia"
 ---
 
-To appear.
+[OpenReview](https://openreview.net/forum?id=PXVqsZlxEa).
+[poster](/files/NeurIPS_BDU_2024_poster.pdf).
 
 <!-- https://gp-seminar-series.github.io/neurips-2024/ -->

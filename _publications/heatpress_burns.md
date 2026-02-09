@@ -8,7 +8,7 @@ date: 2022-01-01
 venue: 'Burns'
 slidesurl: 
 paperurl: 
-citation: 'Jiang, Huihao, Jiaming Qiu, Xiaozhuo Zhao, and Guoan Zhang. 2022. &quot;Possible Indicators of Amputation and Insufficient Perfusion after Heat Press Injury: A Retrospective Study.&quot; <i>Burns</i> 48 (8): 1990–99.'
+citation: 'Jiang, Huihao, Jiaming Qiu, Xiaozhuo Zhao, and Guoan Zhang. 2022. Possible Indicators of Amputation and Insufficient Perfusion after Heat Press Injury: A Retrospective Study. <i>Burns</i> 48 (8): 1990–99.'
 ---
 
 **TL;DR**: Identifying risk factors associated with amputation after severe burns.
