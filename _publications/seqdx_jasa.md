@@ -4,12 +4,12 @@ collection: publications
 category: manuscripts
 permalink: /publications/seqdx_jasa
 excerpt: 
-status: "Under revision"
+status: "accepted"
 venue: 'Journal of the American Statistical Association'
 slidesurl:
 paperurl: 
 # published: false
-citation: 'Qiu, Jiaming, Ying-Qi Zhao, John Wei, Arul Chinnaiyan, Jeffrey Tosoian, and Yingye Zheng. 2026+. Optimizing Sequential Decision Rules for Prostate Cancer Biopsy Management: A Multi-Objective Statistical Framework. <i>Journal of the American Statistical Association.</i> (Under revision)'
+citation: 'Qiu, Jiaming, Ying-Qi Zhao, John Wei, Arul Chinnaiyan, Jeffrey Tosoian, and Yingye Zheng. 2026+. Optimizing Sequential Decision Rules for Prostate Cancer Biopsy Management: A Multi-Objective Statistical Framework. <i>Journal of the American Statistical Association.</i> (accepted)'
 ---
 
 **TL;DR**: 
