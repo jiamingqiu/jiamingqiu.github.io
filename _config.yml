@@ -32,11 +32,11 @@ author:
   avatar           : "usethis.png"
   name             : "Jiaming Qiu"
   pronouns         : # example: "she/her"  
-  bio              : "Postdoctoral Researcher"
-  location         : "Seattle, WA"
-  employer         : "Fred Hutch Cancer Center"
+  bio              : "Postdoctoral Research Associate"
+  location         : "Los Angeles, CA"
+  employer         : "University of Southern California"
   uri              : # URL
-  email            : # not for now"jqiu3@fredhutch.org" 
+  email            : # changed
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
@@ -177,6 +177,7 @@ exclude:
   - assets/js/_main.js
   - assets/js/plugins
   - assets/js/vendor
+  - AGENTS.md
   - CHANGELOG
   - Capfile
   - config

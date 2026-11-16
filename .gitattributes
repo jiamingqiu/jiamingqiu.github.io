@@ -1,0 +1,2 @@
+# Keep text line endings consistent across Windows, WSL, and containers.
+* text=auto eol=lf

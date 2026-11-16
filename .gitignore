@@ -11,3 +11,9 @@ Gemfile.lock
 # Ingore files created by npm
 node_modules
 package-lock.json
+
+# container related
+.vscode/
+vendor/
+.devcontainer/
+AGENTS.md
