@@ -11,6 +11,9 @@ author_profile: true
 
 {% endif %}
 
-{% for post in site.talks reversed %}
-  {% include archive-single-talk.html %}
+{% assign talk_years = site.talks | group_by_exp: "talk", "talk.date | date: '%Y' | default: talk.year | append: ''" | sort: "name" | reverse %}
+{% for year in talk_years %}
+  {% for post in year.items reversed %}
+    {% include archive-single-talk.html %}
+  {% endfor %}
 {% endfor %}

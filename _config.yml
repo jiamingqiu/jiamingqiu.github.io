@@ -19,7 +19,7 @@ locale                   : "en-US"
 title                    : "JIAMING QIU"
 title_separator          : "-"
 name                     : &name "Jiaming Qiu"
-description              : &description "personal description"
+description              : &description "Jiaming Qiu, Postdoctoral Research Associate at the University of Southern California. Research in sequential decision making, functional and spatial data, and nonparametric statistics."
 url                      : 'https://jiamingqiu.github.io' # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "jiamingqiu/jiamingqiu.github.io"
@@ -336,7 +336,7 @@ whitelist:
 #  - <base_path/my-awesome-category/index.html ~> path: /
 category_archive:
   type: liquid
-  path: /categories/
+  path: /publications/
 tag_archive:
   type: liquid
   path: /tags/

@@ -7,10 +7,8 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a post-doctoral researcher at Fred Hutchinson Cancer Center working with Dr.[Yingye Zheng](https://www.fredhutch.org/en/faculty-lab-directory/zheng-yingye.html) and Dr.[Yingqi Zhao](https://www.fredhutch.org/en/faculty-lab-directory/zhao-yingqi.html). 
-I finished my PhD in Statistics at Iowa State University under the supervision of Dr.[Xiongtao Dai](https://crossd.bitbucket.io/) and Dr.[Zhengyuan Zhu](https://www.stat.iastate.edu/people/zhengyuan-zhu).
-<!-- Prior to my doctoral program, I earned my M.S. in Statistics from the University of Michigan after obtaining B.S. in Mathematics from Tsinghua University.  -->
+I am a Postdoctoral Research Associate at the University of Southern California, working with Dr. [Sze-chuan Suen](https://viterbi.usc.edu/directory/faculty/Suen/Sze-chuan) since September 2026.
 
-My research interests include but are not limited to decision making and functional data analysis. 
-Currently I am developing Neyman--Pearson classifiers under data-shift and/or sequential decision scheme, exploring its potential in various real-world applications such as multi-step diagnostic protocols, real-time mobile health monitoring, and cancer active surveillance.
-<!-- It is fascinating to combine statistical frameworks with the latest developments in machine learning to tackle problems once intractable. -->
+Previously, I was a Postdoctoral Researcher at Fred Hutchinson Cancer Center (2022–2026), working with Drs. [Yingye Zheng](https://www.fredhutch.org/en/faculty-lab-directory/zheng-yingye.html) and [Yingqi Zhao](https://www.fredhutch.org/en/faculty-lab-directory/zhao-yingqi.html). I received my Ph.D. in Statistics from Iowa State University in 2022, advised by Drs. [Xiongtao Dai](https://xiongtaodai.com/) and [Zhengyuan Zhu](https://www.stat.iastate.edu/people/zhengyuan-zhu).
+
+My research interests include sequential decision making, functional and spatial data analysis, and nonparametric statistics. I develop methods for decision making under distribution shift and for balancing accuracy, timeliness, and testing burden, with applications to cancer screening and diagnosis and longitudinal health monitoring. I also study spatial prediction of probability distributions, with applications to soil erosion modeling.
