@@ -25,9 +25,12 @@ Work Experience
 * 2022–2026: Postdoctoral Researcher, Fred Hutchinson Cancer Center, Seattle, WA
   * Developed methods for adapting decision rules to distribution shift and optimizing sequential decisions under accuracy, timeliness, and cost constraints, with applications to cancer diagnosis and active surveillance.
   * Advisors: [Yingye Zheng](https://www.fredhutch.org/en/faculty-lab-directory/zheng-yingye.html) and [Yingqi Zhao](https://www.fredhutch.org/en/faculty-lab-directory/zhao-yingqi.html)
+
+{% comment %}
 * 2020–2022: Graduate Research Assistant, Iowa State University, Ames, IA
   * Project: [Integrating Social and Biophysical Indicators of Nutrient Reduction Progress in Iowa Watershed Projects](https://www.cals.iastate.edu/inrc/projects/2019/integrating-social-and-biophysical-indicators-nutrient-reduction-progress-iowa)
   * Worked on survey data quality control, spatial and temporal imputation methods, and interactive visualization of biophysical and survey data.
+{% endcomment %}
 
 Awards
 ======
